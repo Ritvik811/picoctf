@@ -1,6 +1,6 @@
 # Trivial Flag transfer Protocol
 
-**Flag:** ``
+**Flag:** `picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}`
 
 - step 1
   When installing the file I noticed the file size is actually large implying it contained a lot of data. Our first clue comes in the file name being tftp(trivial file transfer protocol), so I use Wireshark and open the file and export it to a tftp file. Here we noitce there are multiple files ```instructions.txt, plan, program.deb, picture1.bmp, picture2.bmp, and picture3.bmp```.
