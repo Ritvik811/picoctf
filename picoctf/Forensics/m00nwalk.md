@@ -43,5 +43,5 @@ Other incorrect methods you tried:
 
 References
 
-- [reference 1}(https://en.wikipedia.org/wiki/Slow-scan_television)
+- [reference 1](https://en.wikipedia.org/wiki/Slow-scan_television)
 - [reference 2](https://ourcodeworld.com/articles/read/956/how-to-convert-decode-a-slow-scan-television-transmissions-sstv-audio-file-to-images-using-qsstv-in-ubuntu-18-04)
